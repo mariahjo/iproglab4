@@ -5,5 +5,6 @@ var StartView = function (container,model) {
 	this.button=container.find('#print-button');
  	//container.hide();
 
+
  }
  

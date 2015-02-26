@@ -9,6 +9,8 @@ var SingleDishView = function (container,model) {
 
 	var food = model.getDish(1);
 
+	
+
 
 	var print ='';
 	print += '<br /><h2>'+food.name+'</h2><br /><br />';
